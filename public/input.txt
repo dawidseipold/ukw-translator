@@ -1,0 +1,41 @@
+[B4E2R31VM8V1NS9ZZ42GAYPF42D2S: text 3006861318441290] A rolling stone gathers no moss, but {g|Encyclopedia:Wisdom}wise men{/g} know when to settle.
+[OVR6P8J9N4B1ANPA6EM07ZLO6GNJE: text 0348505295739364] The early bird catches the worm, but [{g|Encyclopedia:Patience}waiting{/g}] often brings greater rewards.
+[56JT1L022DPF2L4ET1PVETQWO5E9Q: text 9721910537289166] Curiosity killed the cat, but [{g|Encyclopedia:Knowledge}persistence{/g}] uncovered secrets.
+[EG3OTZ9X8IU5UAT3R178XR2FAUT58: text 6520461097659292] Fortune favors the bold, unless {g|Encyclopedia:Tactics}recklessness{/g} ruins the plan.
+[OSA8AGCPOSEDGO5M5JBEEYV9UYSJU: text 9582056111181370] An apple a day keeps the doctor away, unless [{g|Encyclopedia:Poison}it's the wrong apple{/g}].
+[YVXTQ42QBMBZF3RZDST9TBNLQ9LAU: text 7270334915132628] A watched pot never boils, yet {g|Encyclopedia:Alchemy}some reactions{/g} require patience.
+[UKSJJXS0PYF4QO5N2RIZL6K2WCLGO: text 5365463776892874] Time waits for no one, but [{g|Encyclopedia:Chronomancy}those who master it{/g}] bend reality.
+[YFYG42JYI319KEE6SMLP9E6CBWAOU: text 8880620688659829] Actions speak louder than words, though [{g|Encyclopedia:Speech}a silver tongue{/g}] wields power.
+[NST772MC5Y80225EVRTLYTR04I4KX: text 5821862323698244] Don't cry over spilled milk, unless {g|Encyclopedia:Resources}supplies{/g} are scarce.
+[YKOL60ER2VL1BGK1PB8WQVWU63BEO: text 6455856361136521] The pen is mightier than the sword, except against {g|Encyclopedia:Combat}an armored foe{/g}.
+[CNH4P216QI328VC8HZGFS1SATR1EN: text 7249922149328572] All that glitters is not gold, but [{g|Encyclopedia:Treasures}some secrets{/g}] shine in the dark.
+[DP2B0779S31R93WTNNVVSDAAN3ZFP: text 4769560071564152] Don't put all your eggs in one basket, unless {g|Encyclopedia:Strategy}it's well-guarded{/g}.
+[QWLKP560OMH4FIDNBPPDUAKCUKCHV: text 4764875782604659] Two heads are better than one, unless {g|Encyclopedia:Leadership}conflict{/g} arises.
+[W3BAFBMVKM0K1HKU5XODJS6MNUADR: text 1660567007741748] He who laughs last laughs best, though [{g|Encyclopedia:Vengeance}revenge{/g}] is bittersweet.
+[F55F3QI0ER2D0CHS9G5QNQRH7RZCN: text 8277529455260557] When life gives you lemons, make lemonade, or [{g|Encyclopedia:Trade}sell them for gold{/g}].
+[P97V5I04GAT4I6VIRPIIVK8ZFB0VT: text 9039048180729916] A fool and his money are soon parted, unless {g|Encyclopedia:Luck}chance{/g} intervenes.
+[TLSH0ROLNPZGQMO0IV4EYGNCL2RJT: text 1292371269898588] Speak of the devil and he appears, sometimes [{g|Encyclopedia:Danger}too soon{/g}].
+[LK0BDQCBSTZL2QA2AR6GK55ZTEZBQ: text 1209043167081252] The road to hell is paved with good intentions, yet [{g|Encyclopedia:MoralDilemmas}some choices{/g}] lead further.
+[NP7H8U6JR5AN7R2X6Z95VEOY5DPXV: text 6621073683609925] A bird in the hand is worth two in the bush, but [{g|Encyclopedia:Opportunities}risk-taking{/g}] can yield more.
+[3RNESC5R0DR6RKWIQBPI7T2Q8NPFE: text 1941300527920412] Knowledge is power, yet {g|Encyclopedia:Secrets}some truths{/g} are best left unknown.
+[C0KVODG1K4LWY0421AA1909GIP7X5: text 3580769164165435] Two heads are better than one, unless {g|Encyclopedia:Leadership}conflict{/g} arises. The road to hell is paved with good intentions, yet [{g|Encyclopedia:MoralDilemmas}some choices{/g}] lead further.
+[F16QIX62CFSW60TYVFU1LK5TPR3CS: text 7629083051149474] When life gives you lemons, make lemonade, or [{g|Encyclopedia:Trade}sell them for gold{/g}]. He who laughs last laughs best, though [{g|Encyclopedia:Vengeance}revenge{/g}] is bittersweet.
+[BBMDBUP8QT1IC5HUM88K77TGX3VE9: text 1449093560737232] Curiosity killed the cat, but [{g|Encyclopedia:Knowledge}persistence{/g}] uncovered secrets. A rolling stone gathers no moss, but {g|Encyclopedia:Wisdom}wise men{/g} know when to settle.
+[VM64RRZTDHVN6CCSHG4AY8K8053XG: text 7171772113294715] A watched pot never boils, yet {g|Encyclopedia:Alchemy}some reactions{/g} require patience. Knowledge is power, yet {g|Encyclopedia:Secrets}some truths{/g} are best left unknown.
+[60K3VEMNDU5R4UJRW3MJA5UHGGWN1: text 7072923848393203] Don't cry over spilled milk, unless {g|Encyclopedia:Resources}supplies{/g} are scarce. A fool and his money are soon parted, unless {g|Encyclopedia:Luck}chance{/g} intervenes.
+[4BL845RN0J0DY00EPTK5OGZY24IGY: text 7155287662508122] When life gives you lemons, make lemonade, or [{g|Encyclopedia:Trade}sell them for gold{/g}]. Actions speak louder than words, though [{g|Encyclopedia:Speech}a silver tongue{/g}] wields power.
+[YPXH5J5DDPVKGAXDHX768VAYG72MC: text 3597489931405345] Don't cry over spilled milk, unless {g|Encyclopedia:Resources}supplies{/g} are scarce. Don't cry over spilled milk, unless {g|Encyclopedia:Resources}supplies{/g} are scarce.
+[9HIGEL4AY7NXGQRYIESDF0IUWM25M: text 5145974394130428] Curiosity killed the cat, but [{g|Encyclopedia:Knowledge}persistence{/g}] uncovered secrets. A fool and his money are soon parted, unless {g|Encyclopedia:Luck}chance{/g} intervenes.
+[TH82XJ3U81ZOPKVZ2DBLR8NDQBT1Q: text 2509330311569278] The pen is mightier than the sword, except against {g|Encyclopedia:Combat}an armored foe{/g}. The pen is mightier than the sword, except against {g|Encyclopedia:Combat}an armored foe{/g}.
+[V5EDQYCL9A0JZ56YNP2O424G7JZPB: text 5567153394198470] Two heads are better than one, unless {g|Encyclopedia:Leadership}conflict{/g} arises. The road to hell is paved with good intentions, yet [{g|Encyclopedia:MoralDilemmas}some choices{/g}] lead further.
+[ZR3EG1JWB3AH72RWENW4FBPFRJCXA: text 4363710359044908] Two heads are better than one, unless {g|Encyclopedia:Leadership}conflict{/g} arises. A fool and his money are soon parted, unless {g|Encyclopedia:Luck}chance{/g} intervenes.
+[8DYY0HKNPPUVLXK2CW88O4X8NOT0S: text 3845878117246887] Knowledge is power, yet {g|Encyclopedia:Secrets}some truths{/g} are best left unknown. The pen is mightier than the sword, except against {g|Encyclopedia:Combat}an armored foe{/g}.
+[JJOQUIXRHJWGSZWM32L59WVOZ9RKM: text 9340136561131607] When life gives you lemons, make lemonade, or [{g|Encyclopedia:Trade}sell them for gold{/g}]. Don't cry over spilled milk, unless {g|Encyclopedia:Resources}supplies{/g} are scarce.
+[AQNFKO5L6MMOHUPJSMG14F3FHTBRP: text 6847999853082641] When life gives you lemons, make lemonade, or [{g|Encyclopedia:Trade}sell them for gold{/g}]. Fortune favors the bold, unless {g|Encyclopedia:Tactics}recklessness{/g} ruins the plan.
+[627LZZ4NM7JAK4YK29XNJ7124QKGG: text 0146444886247418] Curiosity killed the cat, but [{g|Encyclopedia:Knowledge}persistence{/g}] uncovered secrets. Two heads are better than one, unless {g|Encyclopedia:Leadership}conflict{/g} arises.
+[L46JW35SEHW9S6S4M6ZRWSKRGHERY: text 6024906320028282] The road to hell is paved with good intentions, yet [{g|Encyclopedia:MoralDilemmas}some choices{/g}] lead further. All that glitters is not gold, but [{g|Encyclopedia:Treasures}some secrets{/g}] shine in the dark.
+[G1410O98C1ZMWQR1JJZG0GIOT0XO0: text 5453457895650049] The road to hell is paved with good intentions, yet [{g|Encyclopedia:MoralDilemmas}some choices{/g}] lead further. Knowledge is power, yet {g|Encyclopedia:Secrets}some truths{/g} are best left unknown.
+[IK4BI471WOOEPYABMK8HB129JHYVO: text 7617149250699618] Actions speak louder than words, though [{g|Encyclopedia:Speech}a silver tongue{/g}] wields power. He who laughs last laughs best, though [{g|Encyclopedia:Vengeance}revenge{/g}] is bittersweet.
+[RRQ6X6BUPSJF4IBYOF98669IKPIVT: text 6419602710203148] An apple a day keeps the doctor away, unless [{g|Encyclopedia:Poison}it's the wrong apple{/g}]. A rolling stone gathers no moss, but {g|Encyclopedia:Wisdom}wise men{/g} know when to settle.
+[HF353586MYC6M7ECMY3RD5AESRGIQ: text 7604994923308192] Curiosity killed the cat, but [{g|Encyclopedia:Knowledge}persistence{/g}] uncovered secrets. An apple a day keeps the doctor away, unless [{g|Encyclopedia:Poison}it's the wrong apple{/g}].
+[QHH6T66C20LJTUN4JHCNXPS7DUCKW: text 2149498859550083] The road to hell is paved with good intentions, yet [{g|Encyclopedia:MoralDilemmas}some choices{/g}] lead further. A rolling stone gathers no moss, but {g|Encyclopedia:Wisdom}wise men{/g} know when to settle.
