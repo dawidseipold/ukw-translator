@@ -1,4 +1,4 @@
-from config.paths import INPUT_PATH, OUTPUT_PATH
+from config.index import INPUT_PATH, OUTPUT_PATH
 
 class FileHandler:
     @staticmethod

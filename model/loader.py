@@ -1,6 +1,6 @@
 import torch
 from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
-from config.model_config import MODEL_NAME
+from config.index import MODEL_NAME
 
 def load_model():
     assert torch.cuda.is_available()
